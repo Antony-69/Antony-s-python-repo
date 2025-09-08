@@ -1,3 +1,3 @@
 # Antony-s-python-repo
-Some coding for college /n
+Some coding for college
 Type shit
