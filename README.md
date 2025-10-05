@@ -1,7 +1,5 @@
 # 🐍 Antony’s Python Repo  
 
-> *“Turning coffee ☕ into clean, tested, and elegant Python code.”*
-
 ---
 
 ## 👋 Hey there!  
@@ -51,14 +49,7 @@ A collection of Python scripts, exercises, and projects created while exploring:
 
 Let’s connect and geek out about Python, tech, or anything innovative 🚀  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Antony-black?logo=github)](https://github.com/YourGitHubUsername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antony-blue?logo=linkedin)](https://linkedin.com/in/YourLinkedIn)  
-
----
-
-## 🧩 Fun Fact  
-
-> The best “test environment” is the one where you *break things safely* to learn how to fix them.
+[![GitHub](https://img.shields.io/badge/GitHub-Antony-black?logo=github)](https://github.com/Antony-69)  
 
 ---
 
@@ -67,4 +58,4 @@ Give this repo a **star** and follow my journey as I grow from *student* → *de
 
 ---
 
-🛠️ *Made with curiosity and caffeine by Antony.*
+🛠️ *Made with curiosity and cocaine by Antony.*
