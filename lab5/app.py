@@ -8,7 +8,7 @@ class Figure:
 
     @property
     def get_figure_type(self):
-        return self.type
+        return self.typew
 
     @property
     def get_figure_length(self):
